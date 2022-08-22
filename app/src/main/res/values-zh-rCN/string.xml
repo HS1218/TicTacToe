@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">九宫格小游戏</string>
+    <string name="open_guide">第一步你先下(▲)</string>
+    <string name="android_turn">现在该机器人下棋啦(●)</string>
+    <string name="your_turn">现在该你下棋啦(▲).</string>
+    <string name="tie">棋逢对手，平局!</string>
+    <string name="win">你战胜了机器人!</string>
+    <string name="lose">机器人把你打败啦!</string>
+    <string name="start">开始新游戏</string>
+    <string name="end">退出游戏</string>
+</resources>
